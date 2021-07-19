@@ -1,3 +1,4 @@
-# All about the Little Fox.
+## 🦊 All about the Little Fox 🦊
+### Stuff to know:
 📝 **My name:** Alon.
-🎓 11th grade.
+🎓 **Education level:** 11th grade.
