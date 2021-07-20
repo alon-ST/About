@@ -22,12 +22,12 @@
 </br></br>
 
 ### IDE's and Text Editors
-<img align="left" alt="PyCharm" height="34px" src="https://i.ibb.co/vPg75fs/New-Project-6.png"/>
-<img align="left" alt="VisualStudio" height="34px" src="https://i.ibb.co/5W23W21/New-Project-9.png"/>
-<img align="left" alt="CLion" height="34px" src="https://i.ibb.co/4VR54Kr/New-Project-10.png"/>
-<img align="left" alt="IntelliJ IDEA" height="34px" src="https://i.ibb.co/5BCmG7g/New-Project-7.png" />
-<img align="left" alt="JupyterNotebook" height="34px" src="https://i.ibb.co/sbypSGV/New-Project-8.png"/>
-<img align="left" alt="Atom" height="34px" src="https://i.ibb.co/MN1CcGm/New-Project-11.png"/>
+<img align="left" alt="PyCharm" height="30px" src="https://i.ibb.co/vPg75fs/New-Project-6.png"/>
+<img align="left" alt="VisualStudio" height="30px" src="https://i.ibb.co/5W23W21/New-Project-9.png"/>
+<img align="left" alt="CLion" height="30px" src="https://i.ibb.co/4VR54Kr/New-Project-10.png"/>
+<img align="left" alt="IntelliJ IDEA" height="30px" src="https://i.ibb.co/5BCmG7g/New-Project-7.png" />
+<img align="left" alt="JupyterNotebook" height="30px" src="https://i.ibb.co/sbypSGV/New-Project-8.png"/>
+<img align="left" alt="Atom" height="30px" src="https://i.ibb.co/MN1CcGm/New-Project-11.png"/>
 </br></br>
 
 ### Contact me
