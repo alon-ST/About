@@ -4,10 +4,6 @@
 - 👍 I like 📺 TV shows, 🎬 movies and 🎵 music.
 - 🔍 In my free time, I like to explore things about programming.
 
-### Favorite Fields
-- 🧠 AI (Artificial Intelligence) and 💻 ML (Machine Learning)
-- 🌐 Networking and 🕵️‍♂️ Ethical Hacking.
-- 🎮 Games.
 </br></br>
 
 ### Programming Languages
