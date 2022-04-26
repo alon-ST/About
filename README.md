@@ -1,5 +1,3 @@
-## 🦊 All about the Little Fox 🦊
-
 ### About me
 - 📝 My name is Alon.
 - 🎓 I'm 11th grade.
