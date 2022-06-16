@@ -2,7 +2,7 @@
 - 📝 My name is Alon.
 - 🎓 I'm 18 years old.
 - 👍 I like 📺 TV shows, 🎬 movies and 🎵 music.
-- 🔍 In my free time, I like to explore things about programming, Samsung, Apple and other tech companies (obviously Samsung > Apple :) ).
+- 🔍 In my free time, I like to explore things about programming and tech companies (obviously Samsung > Apple :) ).
 
 </br></br>
 
