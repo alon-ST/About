@@ -4,7 +4,6 @@
 - 👍 I like 📺 TV shows, 🎬 movies and 🎵 music.
 - 🔍 In my free time, I like to explore things about programming and tech companies (obviously Samsung > Apple :) ).
 
-</br>
 ### Programming Languages
 <img align="left" alt="C++" height="34px" src="https://i.ibb.co/7Jt3T9v/Cpp-lang.png"/>
 <img align="left" alt="Python" height="34px" src="https://i.ibb.co/PtbKSB1/New-Project-12.png"/>
