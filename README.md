@@ -7,9 +7,9 @@
 </br></br>
 
 ### Programming Languages
+<img align="left" alt="C++" height="34px" src="https://i.ibb.co/7Jt3T9v/Cpp-lang.png"/>
 <img align="left" alt="Python" height="34px" src="https://i.ibb.co/PtbKSB1/New-Project-12.png"/>
 <img align="left" alt="C" height="34px" src="https://i.ibb.co/q1y6SMQ/C-lang.png"/>
-<img align="left" alt="C++" height="34px" src="https://i.ibb.co/7Jt3T9v/Cpp-lang.png"/>
 <img align="left" alt="Java" height="34px" src="https://i.ibb.co/mBmTwNW/Java-lang.png"/>
 <img align="left" alt="HTML5" height="34px" src="https://i.ibb.co/m63sM8d/New-Project-4.png" />
 <img align="left" alt="CSS3" height="34px" src="https://i.ibb.co/qyk5QhC/New-Project-5.png" />
@@ -18,8 +18,6 @@
 ### IDE's and Text Editors
 <img align="left" alt="PyCharm" height="27px" src="https://i.ibb.co/vPg75fs/New-Project-6.png"/>
 <img align="left" alt="VisualStudio" height="27px" src="https://i.ibb.co/5W23W21/New-Project-9.png"/>
-<img align="left" alt="CLion" height="27px" src="https://i.ibb.co/4VR54Kr/New-Project-10.png"/>
-<img align="left" alt="IntelliJ IDEA" height="27px" src="https://i.ibb.co/5BCmG7g/New-Project-7.png" />
 <img align="left" alt="JupyterNotebook" height="27px" src="https://i.ibb.co/sbypSGV/New-Project-8.png"/>
 <img align="left" alt="Atom" height="27px" src="https://i.ibb.co/MN1CcGm/New-Project-11.png"/>
 </br></br>
